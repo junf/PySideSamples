@@ -25,7 +25,6 @@ class Screen(QtGui.QLabel):
     def keyPressEvent(self, event):
         QtGui.QLabel.keyPressEvent(self, event)
         if event.key() == QtCore.Qt.Key_Escape:
-            print(event.key())
             if self.isFullScreen():
                 self.showNormal()
                 self.showMaximized()
