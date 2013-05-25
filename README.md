@@ -8,7 +8,7 @@ Contents
 1. **FullScreen.py**:  
 Display image in full-screen without frame. Please prepare the hoge.jpg as an image file.
 
-2. **Slide.py**:
+2. **Slide.py**:  
 Display image while sliding. Please prepare the hoge.jpg as an image file.
 
 License
