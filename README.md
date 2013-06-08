@@ -14,6 +14,10 @@ Display image while sliding. Please prepare the hoge.jpg as an image file.
 3. **FadeImage.py**:  
 Display image with fade-in/fade-out.  Please prepare the fuga.jpg for background image and hoge.jpg for foreground image.
 
+4. **Zoom.py**  
+Display image with zoom-in/zoom-out.  Please prepare the hoge.jpg as an image file.
+
+
 License
 -------
 These samples are licensed under the Apache License, Version 2.0.
